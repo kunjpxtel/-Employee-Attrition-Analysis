@@ -12,7 +12,7 @@ The objective is to help HR professionals understand workforce trends, identify 
 
 # Project Architecture
 
-HR Dataset (CSV) --> Data Cleaning & Preparation --> Exploratory Data Analysis --> KPI Calculation --> Tableau Dashboard --> Business Insights
+HR Dataset (CSV) > Data Cleaning & Preparation > Exploratory Data Analysis > KPI Calculation > Tableau Dashboard > Business Insights
 
 # Project Overview
 This project performs an in-depth analysis of employee attrition using an HR Analytics dataset. The raw employee data is cleaned, processed, and analysed to uncover patterns contributing to employee turnover.
@@ -24,10 +24,10 @@ The dashboard enables HR managers and business stakeholders to explore employee 
 # Repository Contents
 Employee-Attrition-Analysis/
 
-HR-Employee-Attrition.csv
-Master_Attrition_Analysis.csv
-Dashboard.png
-README.md
+HR-Employee-Attrition.csv,
+Master_Attrition_Analysis.csv,
+Dashboard.png,
+and README.md
 
 # Dashboard Features
 The Tableau dashboard provides insights into:
@@ -74,4 +74,4 @@ Tableau Public,
 CSV,
 Microsoft Excel (Data Preparation),
 HR Analytics,
-Data Visualization
+and Data Visualization
