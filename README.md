@@ -1,4 +1,4 @@
-# -Employee-Attrition-Analysis
+# Employee-Attrition-Analysis
 
 Click the image below to explore the live application:
 
