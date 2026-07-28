@@ -12,7 +12,8 @@ The objective is to help HR professionals understand workforce trends, identify 
 
 # Project Architecture
 
-HR Dataset (CSV) > Data Cleaning & Preparation > Exploratory Data Analysis > KPI Calculation > Tableau Dashboard > Business Insights
+<img width="2720" height="2480" alt="hr_analytics_project_architecture" src="https://github.com/user-attachments/assets/306083cb-6e47-4e6a-bedf-77b61883405f" />
+
 
 # Project Overview
 This project performs an in-depth analysis of employee attrition using an HR Analytics dataset. The raw employee data is cleaned, processed, and analysed to uncover patterns contributing to employee turnover.
