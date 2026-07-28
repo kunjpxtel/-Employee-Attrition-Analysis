@@ -39,7 +39,7 @@ Attrition by Age Group,
 Attrition by Salary,
 Attrition by Job Role,
 Employee Count,
-Years at Company,
+Years at Company
 and Interactive Filters for detailed analysis
 
 # Key Business Insights
