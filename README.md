@@ -32,14 +32,14 @@ and README.md
 # Dashboard Features
 The Tableau dashboard provides insights into:
 
-Overall Employee Attrition Rate
-Department-wise Attrition
-Attrition by Age Group
-Attrition by Salary
-Attrition by Job Role
-Employee Count
-Years at Company
-Interactive Filters for detailed analysis
+Overall Employee Attrition Rate,
+Department-wise Attrition,
+Attrition by Age Group,
+Attrition by Salary,
+Attrition by Job Role,
+Employee Count,
+Years at Company,
+and Interactive Filters for detailed analysis
 
 # Key Business Insights
 This project helps answer questions such as:
